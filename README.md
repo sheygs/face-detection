@@ -1,6 +1,6 @@
 ## Face Detector
 
-1. clone the repo
+1. clone the repo `git clone https://github.com/sheygs13/face-detector`
 
 2. `cd` into face-detector directory
 
