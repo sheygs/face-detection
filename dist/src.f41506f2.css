@@ -1,0 +1,25 @@
+:root {
+  --grey: #e7e7e7;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+input:not([type="checkbox"]):not([type="radio"]),
+textarea,
+select {
+  display: block;
+  padding: 1rem;
+  border: 1px solid var(--grey);
+}
+
+
+/*# sourceMappingURL=/src.f41506f2.css.map */
