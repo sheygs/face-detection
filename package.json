@@ -1,0 +1,21 @@
+{
+  "name": "face-detector",
+  "version": "1.0.0",
+  "description": "A face detector app demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel face-detector.html"
+  },
+  "keywords": [
+    "face-detector",
+    "detector-api"
+  ],
+  "author": "sheygs13",
+  "license": "ISC",
+  "browserslist": [
+    "last 1 Chrome version"
+  ],
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
